@@ -1,8 +1,17 @@
-# Login Attempt Analyzer
+# Login Analyzer
 
-Python assignment for CodeYou SecOps pathway.
+Interactive login attempt risk report (Python conditionals exercise).
 
-This script asks for analyst name, username, failed login count, and privilege status. It uses conditional logic to assign a risk level and prints a formatted security report with a timestamp.
+## Description
+Prompts an analyst for failed login count and whether the account is privileged, then prints a simple risk report.
 
-## How to run
-python login_report.py
+## Technologies
+- Python 3
+
+## Usage
+```bash
+python3 login_report.py
+```
+
+## Status
+Completed early learning exercise.
